@@ -11,5 +11,6 @@ public class Week1
         System.out.println("Who Does Testing");
         System.out.println("Qualification of a Tester");
         System.out.println("What is Manual Testing");
+        System.out.println("Manual Testing");
     }
 }
